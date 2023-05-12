@@ -8,12 +8,6 @@ This is what we call a RESTful API, which is an architectural style for applicat
 - Sequelize is a Node.js-based Object Relational Mapper that makes it easy to work with MySQL.
 - dotenv allows separating secrets from the source code, it is useful in a collaborative environment.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 ## Installation
 - mysql2 npm: command --- npm i mysql2
 - sequelize npm: command --- npm i sequelize
